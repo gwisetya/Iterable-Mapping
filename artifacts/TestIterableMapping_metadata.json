@@ -1,0 +1,75 @@
+{
+	"compiler": {
+		"version": "0.8.27+commit.40a35a09"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "testIterableMap",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testRemove",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testUpdate",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"IterableMapping.t.sol": "TestIterableMapping"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"IterableMapping.sol": {
+			"keccak256": "0xbdb89c5c216105924678630a5627b980285f23033fd1a7d6c07a27a0e7637f5d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d13ca7bdf03fe6a90aefef18d48cbbab7df0f8f3336077c21e913777c05c99e5",
+				"dweb:/ipfs/QmXa7xYiAVBeai9Ni112S7y9KPDQkBhsh3XvtixVW9Myio"
+			]
+		},
+		"IterableMapping.t.sol": {
+			"keccak256": "0x6b4194a29f1c148b5c10f6cfba70a8b526feef44104022925282d3d41d7d30e9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cd851c1395a9a722bdd1dfc6c73d5fa09d3e047f75aef093df5ba7020c6b9306",
+				"dweb:/ipfs/QmdzvVW3Qabfn4P1opjA7H4BraWnR2scM1PhcyJPcwxQoy"
+			]
+		}
+	},
+	"version": 1
+}
